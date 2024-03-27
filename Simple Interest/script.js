@@ -15,3 +15,5 @@ function changing(){
     const rateval=document.getElementById("rate").value
     document.getElementById("rate--span").innerText=rateval
 }
+
+console.log("Hello World")
